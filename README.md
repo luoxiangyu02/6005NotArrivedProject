@@ -10,3 +10,6 @@ https://www.bilibili.com/video/BV13a411q753/?p=5&spm_id_from=pageDriver&vd_sourc
 ## Oracle安装教程
 https://blog.csdn.net/weixin_44340836/article/details/112464663
 
+## git使用指南
+https://blog.csdn.net/yuhan61659/article/details/81171351
+
